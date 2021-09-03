@@ -91,7 +91,7 @@
 
 ## Regras de negócio
 
-# Cadastro de Usuário
+### Cadastro de Usuário
 **RF**
 - Deve ser possível cadastrar um novo usuário.
 - O password deve ser criptografado.
@@ -99,7 +99,7 @@
 **RN**
 [x] - Não deve ser possível cadastrar um usuário com um username. 
 
-# Listagem de usuários
+### Listagem de usuários
 
 **RF**
 [x] - Deve ser possível listar todos os usuários cadastrados.
@@ -107,12 +107,12 @@
 **RN**
 [x] - O usuário não precisa estar logado no sistema.
 
-# Atualização de usuário 
+### Atualização de usuário 
 
 **RF**
 - Deve ser possível atualizar um usuário existente.
 
-# Deleção de usuário 
+### Deleção de usuário 
 
 **RF**
 - Deve ser possível deletar um usuário existente.
