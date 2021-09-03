@@ -97,15 +97,15 @@
 - O password deve ser criptografado.
 
 **RN**
-[x] - Não deve ser possível cadastrar um usuário com um username. 
+- Não deve ser possível cadastrar um usuário com um username. 
 
 ### Listagem de usuários
 
 **RF**
-[x] - Deve ser possível listar todos os usuários cadastrados.
+- Deve ser possível listar todos os usuários cadastrados.
 
 **RN**
-[x] - O usuário não precisa estar logado no sistema.
+- O usuário não precisa estar logado no sistema.
 
 ### Atualização de usuário 
 
