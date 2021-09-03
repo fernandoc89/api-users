@@ -26,6 +26,7 @@
 
 ## Informações sobre a API
   Possui 4 métodos e rotas. 
+      
       **Create** 
         - Método: POST
         - Rota: localhost:3000/users/create
